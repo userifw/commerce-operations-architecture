@@ -1,0 +1,9 @@
+{
+  "provider": "example-marketplace",
+  "operation": "price_sync",
+  "processed": 43530,
+  "updated": 43486,
+  "unmatched": 44,
+  "errors": 0,
+  "status": "completed"
+}
